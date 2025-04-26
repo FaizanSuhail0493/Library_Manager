@@ -6,8 +6,8 @@ import os
 import time
 import datetime as dt
 import random
-import ploty.express as px
-import plotty.graph_objects as go
+import plotly.express as px
+import plotly.graph_objects as go
 from streamlit_lottie import st_lottie
 
 #set page confirguration
